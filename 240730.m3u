@@ -129,6 +129,12 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1  tvg-name="cctv4k" tvg-id="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",CCTV4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/01.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228491/01.m3u8?fmt=ts2hls
+#EXTINF:-1  tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8
 #EXTINF:-1  tvg-name="嘉兴公共" tvg-id="嘉兴公共" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通(1).png" group-title="浙江",嘉兴公共
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232993/index.m3u8
 #EXTINF:-1  tvg-name="嘉兴公共" tvg-id="嘉兴公共" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通(1).png" group-title="浙江",嘉兴公共
@@ -169,12 +175,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1  tvg-name="浙江数码时代" tvg-id="浙江数码时代" tvg-logo="https://epg.v1.mk/logo/浙江数码时代.png" group-title="浙江",浙江数码时代
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228989/01.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/01.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228491/01.m3u8?fmt=ts2hls
-#EXTINF:-1  tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236171/index.m3u8
 #EXTINF:-1  tvg-name="浙江新闻" tvg-id="浙江新闻" tvg-logo="https://epg.v1.mk/logo/浙江新闻.png" group-title="浙江",浙江新闻
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/01.m3u8?fmt=ts2hls
 #EXTINF:-1  tvg-name="浙江新闻" tvg-id="浙江新闻" tvg-logo="https://epg.v1.mk/logo/浙江新闻.png" group-title="浙江",浙江新闻
